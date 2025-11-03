@@ -1,2 +1,3 @@
 matplotlib
 tensorboard
+git+https://github.com/TomekTarczynski/torch_utils.git
